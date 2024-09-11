@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@b127/crypto':
-        specifier: ^0.4.1
-        version: 0.4.1
+        specifier: ^0.4.2
+        version: 0.4.2
       '@types/prompts':
         specifier: ^2.4.9
         version: 2.4.9
@@ -39,8 +39,8 @@ importers:
 
 packages:
 
-  '@b127/crypto@0.4.1':
-    resolution: {integrity: sha512-AtDx0D4fJa0N0rQtff1Vh7QvqjvrB1BgJ+1n0kpsgHDqDcL5bShgDXe4lysNUNArInF1RWWioMHDtbKtXU8CDQ==}
+  '@b127/crypto@0.4.2':
+    resolution: {integrity: sha512-kyVInC97VcrlDq41igMRInV6IyoXcMFDj8oUlBV9bKvzdZtd7A3Iy3jWjt3fSR+ed/gCQ1+MzSSuU/35gMzRig==}
     engines: {node: '>=18'}
 
   '@isaacs/cliui@8.0.2':
@@ -247,7 +247,7 @@ packages:
 
 snapshots:
 
-  '@b127/crypto@0.4.1': {}
+  '@b127/crypto@0.4.2': {}
 
   '@isaacs/cliui@8.0.2':
     dependencies:
