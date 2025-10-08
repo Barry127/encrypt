@@ -28,7 +28,7 @@
     "build": "npm run clear && tsc"
   },
   "dependencies": {
-    "@b127/crypto": "^0.4.2",
+    "@b127/crypto": "^0.4.3",
     "@types/prompts": "^2.4.9",
     "@types/yargs": "^17.0.33",
     "chalk": "^5.3.0",
